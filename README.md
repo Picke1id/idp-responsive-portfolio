@@ -11,7 +11,7 @@ The motivation behind this project was to create a personal portfolio that is mo
 ## Code Example
 Here is an example of the portfolio layout:
 
-![Portfolio Demo]()
+![Portfolio Demo](./Images/portfoliodemo.mp4)
 
 ## Features
 * Mobile responsive layout
