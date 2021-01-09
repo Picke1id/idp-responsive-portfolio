@@ -18,14 +18,6 @@ body {
     border: 8px double black;
 }
 
-/* STYLING FOR FOOTER SECTION */
-footer {
-    background-color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 0;
-}
-
 /* STYLING FOR HEADERS */
 h5 {
     font-size: 30px;
@@ -33,4 +25,40 @@ h5 {
 
 h6 {
     font-size: 25px;
+}
+
+/* STYLING FOR PORTFOLIO SECTION */
+
+#portDiv {
+        background-color: rgb(34, 33, 33);
+        margin-bottom: 230px;
+        padding-bottom: 50px;   
+}
+
+#portDivTitle {
+    padding-top: 20px;
+    color: white;   
+}
+
+#FirstRow {
+    margin-top: 40px;
+}
+
+#imageTitle {
+    color: white;
+    text-align: center;
+}
+
+#promoImg {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;    
+} 
+
+/* STYLING FOR FOOTER SECTION */
+footer {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
 }
