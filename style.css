@@ -18,10 +18,19 @@ body {
     border: 8px double black;
 }
 
-/* STYLING FOR FOOTER SECTION*/
+/* STYLING FOR FOOTER SECTION */
 footer {
     background-color: white;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom: 0;
+}
+
+/* STYLING FOR HEADERS */
+h5 {
+    font-size: 30px;
+}
+
+h6 {
+    font-size: 25px;
 }
