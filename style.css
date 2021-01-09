@@ -1,1 +1,27 @@
+/* BACKGROUND IMAGE FOR BODY */
+body {
+    background-image: url(background.jpg);
+}
 
+/* ADDING COLOR TO NAVBAR LINKS */
+.nav-link {
+    color:black;
+}
+
+/* STYLING FOR ABOUT SECTION */
+#aboutDiv{
+    margin-bottom: 250px;
+}
+
+#aboutCard {
+    background-color: white;
+    border: 8px double black;
+}
+
+/* STYLING FOR FOOTER SECTION*/
+footer {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
