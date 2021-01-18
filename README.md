@@ -27,3 +27,6 @@ After the repository has been cloned, click on the index.html and open in browse
 > You can reference the full license [here](https://github.com/Picke1id/idp-responsive-portfolio/blob/master/LICENSE).
 
 This project is licensed under the terms of the MIT license.
+
+## Link
+* Portfolio URL: (https://picke1id.github.io/idp-responsive-portfolio/)
